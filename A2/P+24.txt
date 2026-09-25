@@ -1,5 +1,5 @@
-Modified Poem (using 24th replacement):
-
+Modified Poem (using 24th replacement of last word):
+----------------------------------------------------
 One must have a mind of thy
 To regard the frost and the loss
 Of the pine-trees crusted with sugar;
