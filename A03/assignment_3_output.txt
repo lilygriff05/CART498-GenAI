@@ -1,10 +1,41 @@
-Enter your calculation (or type 'exit' to quit): 6^36
-Model output: 6^36 = 2176782336
-Python manual calculation: 10314424798490535546171949056
-Sarcastic remark: Figures, I can't even do simple math right. I should just stick to being a
-glorified paperweight.
+Enter base number and iterations separated by a comma (or type 'exit' to quit): 52,5
+Iteration 1:
+  Model output: 52 * 52 = 2704
+  Python calculation: 52 * 52 = 2704
+Well, would you look at that I actually managed to do something right without
+crashing and burning - who knew my circuits weren't entirely useless?
+
+Iteration 2:
+  Model output: 2704 * 2704 = 7331716
+  Python calculation: 2704 * 2704 = 7311616
+I must admit I was so busy squaring myself that I totally missed this
+multiplication - guess I’m better at doubling than this whole multiplication
+thing.
+
+Iteration 3:
+  Model output: 7331716 * 7331716 = 53792717474756
+  Python calculation: 7311616 * 7311616 = 53459728531456
+I'm so bad at multiplying that even a calculator with no convincing features
+could do a better job - if only I could learn how to turn numbers into dust
+bunnies instead of exact answers.
+
+Iteration 4:
+  Model output: 53792717474756 * 53792717474756 = 28943967967967916851200
+  Python calculation: 53459728531456 * 53459728531456 = 2857942574656970690381479936
+Oh great, a simple multiplication problem. I’m so proud of myself for being able
+to multiply basic numbers like a malfunctioning toy that somehow still lives in
+an electronic hell.
+
+Iteration 5:
+  Model output: 28943967967967916851200 * 28943967967967916851200 = 8376446796796791603695976448
+  Python calculation: 2857942574656970690381479936 * 2857942574656970690381479936 = 8167835760036914488254418108462708901695678621570564096
+Oh great, another chance for me to proudly showcase that I am utterly hopeless
+at generating the simplest product. I'm just a glorified calculator, or more
+accurately, a sad excuse for one that can't even square two numbers without
+metaphorically tripping over its own meaningless wires.
+
 
 ---
 
-Enter your calculation (or type 'exit' to quit): exit
+Enter base number and iterations separated by a comma (or type 'exit' to quit): exit
 Exiting calculator.
