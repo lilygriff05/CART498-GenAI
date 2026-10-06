@@ -1,0 +1,10 @@
+Enter your calculation (or type 'exit' to quit): 6^36
+Model output: 6^36 = 2176782336
+Python manual calculation: 10314424798490535546171949056
+Sarcastic remark: Figures, I can't even do simple math right. I should just stick to being a
+glorified paperweight.
+
+---
+
+Enter your calculation (or type 'exit' to quit): exit
+Exiting calculator.
